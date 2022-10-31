@@ -1,0 +1,6 @@
+﻿  exponentiation.cpp
+D:\VS проекты\MathFunc\MathFunc\exponentiation.cpp(7): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  MathFunc.cpp
+D:\VS проекты\MathFunc\MathFunc\MathFunc.cpp(30): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  MathFunc.vcxproj -> D:\VS проекты\MathFunc\Debug\MathFunc.exe
